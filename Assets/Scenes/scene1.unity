@@ -398,7 +398,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2080673130085893210, guid: 7bafe1e14ccaaea468f7651eef9351e7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 48.72
+      value: 46.16
       objectReference: {fileID: 0}
     - target: {fileID: 2080673130085893210, guid: 7bafe1e14ccaaea468f7651eef9351e7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -705,7 +705,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2716218426153311153, guid: 8f92ff692d8ac65488415313d4c11fde, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 49.85
+      value: 47.42
       objectReference: {fileID: 0}
     - target: {fileID: 2716218426153311153, guid: 8f92ff692d8ac65488415313d4c11fde, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1196,12 +1196,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 250982383}
     - target: {fileID: 1471839916229967788, guid: e697cfffaa9ccb140a66ec469a8cb705, type: 3}
+      propertyPath: jumpSpeed
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1471839916229967788, guid: e697cfffaa9ccb140a66ec469a8cb705, type: 3}
       propertyPath: targetScore
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 1471839916229967788, guid: e697cfffaa9ccb140a66ec469a8cb705, type: 3}
       propertyPath: nextSceneName
-      value: MainMenu
+      value: scene2
       objectReference: {fileID: 0}
     - target: {fileID: 2722092782557037807, guid: e697cfffaa9ccb140a66ec469a8cb705, type: 3}
       propertyPath: m_Name
